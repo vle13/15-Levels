@@ -1,7 +1,9 @@
 a {
-    color: black;
+    color: #1054ff;
+    text-decoration: none;
 }
 
 a:hover {
-    color: pink;
+    color: #ef1010;
 }
+
