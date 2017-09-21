@@ -1,0 +1,133 @@
+/*4.1*/
+
+#body1 {
+    
+    padding-top: 295px; 
+    padding-right: 321.2px;
+    padding-left: 321.2px;
+    text-align: justify;
+}
+
+#he {
+    
+    font-family: "courier new", monospace;
+    font-size: 14px;    
+}
+
+#he2 {
+   
+    font-family: "courier new", monospace;
+    font-size: 14px;
+    text-align: right;
+    
+}
+
+#boom {
+    
+    font-family: "courier new", monospace;
+    font-weight: bold;
+    text-align: right;
+    font-size: 18px; 
+    
+}
+
+
+/*4.2*/
+
+
+#body2 {top:200px;}
+
+#egg {
+    
+    
+    font-family:"courier new", monospace;
+    width: 2990px;
+    font-size: 500px;
+    line-height: 700px;
+    
+}
+
+#m {
+    
+    font-family: "courier new", monospace;
+    letter-spacing: -10px;
+}
+
+#gg {
+    letter-spacing: -10px;
+}
+
+#nothing {
+    
+    font-family: "courier new",monospace;
+    font-style: oblique;
+    width: 2990px;
+    text-align: right;
+    font-size: 12px;
+    
+}
+
+
+/*4.3*/
+
+.font {
+    
+    font-family: "courier new", monospace;
+    position: absolute;
+} 
+
+#first {
+    
+    font-size: 26.81px;
+    text-align: justify;
+    top: 1px;
+     
+}
+
+#second {
+    
+    font-size: 13px;
+    top: 250px;
+}
+
+#third {
+    
+    font-size: 25px;
+    right: 1px;
+    top: 410px;
+    
+}
+
+#fourth {
+    
+    top: 610px;
+    left: 560px;
+    font-weight: bold;
+
+}
+
+#fifth {
+    
+    font-size: 11.35px;
+    bottom: 5px;
+    text-align: justify;
+}
+
+a {
+    color: #ef1010;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+}
+
+
+
+
+
+
+
+
+
+

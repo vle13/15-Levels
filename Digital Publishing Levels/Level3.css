@@ -1,0 +1,109 @@
+/*3.1*/
+
+#padding {
+   
+    width: 1000px;
+    margin-left: 1750px; 
+    padding-left: 500px;
+    padding-right: 500px;
+      
+}
+
+#padding2 {
+    
+    width: 1000px;
+    margin-left: 4500px;
+    padding-left: 500px;
+    padding-right: 500px;
+   
+}
+
+#padding3 {
+    
+    width: 500px;
+    margin-left: 7000px;
+    padding-left: 500px; 
+
+}
+
+/*3.2*/  
+
+#boom {
+    
+    width: 4000px;
+    padding-top: 270px;
+    padding-right: 670px;
+    padding-left: 678px;
+
+}
+
+#dead1 {
+    
+    position: absolute;
+    width: 1600px;
+    margin-left: 2000px;
+    top: 820px;
+}
+
+#killed {
+    
+    width: 1000px;    
+    position: absolute;
+    top: 450px;
+    margin-left:5500px;
+    
+}
+
+#revolution {
+    
+    width: 1000px;
+    top: 0px;
+    margin-left:8000px;
+    position: absolute;
+    
+       
+}
+
+#dead2 {
+    
+   position: absolute;
+    width: 835px;
+    margin-left: 10000px;
+    top: 820px;
+    
+}
+
+/*3.3*/
+
+#but {
+    
+    position: fixed;
+    top: 450px;
+    right: 5px;
+    
+}
+
+
+
+
+a {
+    color: #521765;
+    text-decoration: none;
+}
+
+a:hover {
+    color: peachpuff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
